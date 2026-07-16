@@ -9,7 +9,7 @@ public class ChatClient
     {
         try
         {
-            Socket socket = new Socket("localhost",2100);
+            Socket socket = new Socket("localhost", 2100);
 
             BufferedReader keyboard =
                     new BufferedReader(

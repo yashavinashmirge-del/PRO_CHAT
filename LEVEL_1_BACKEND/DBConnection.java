@@ -7,7 +7,7 @@ public class DBConnection
             "jdbc:mysql://localhost:3306/ChatDB";
 
     private static final String USER = "root";
-    private static final String PASSWORD = "root";
+    private static final String PASSWORD = "";
 
     public static Connection getConnection()
     {
