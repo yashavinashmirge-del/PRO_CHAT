@@ -37,7 +37,6 @@ Each folder is self-contained and independently runnable — pick whichever matc
 ```
 PRO_CHAT/
 ├── README.md
-├── .gitignore
 │
 ├── LEVEL_0_CUI/
 │   ├── ChatClient.java
