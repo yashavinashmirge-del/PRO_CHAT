@@ -1,0 +1,5 @@
+[2026-07-18 22:40:26] SERVER: Server started
+[2026-07-18 22:41:20] SERVER: Yash Avinash Mirge joined the chat
+[2026-07-18 22:41:24] Yash Avinash Mirge: hi
+[2026-07-18 22:41:33] SERVER: hi
+[2026-07-19 00:51:40] SERVER: Yash Avinash Mirge left the chat
