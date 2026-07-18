@@ -75,7 +75,7 @@ PRO_CHAT/
 └──────────┘          └─────────────────────────────┘        broadcast to all
 ```
 
-Every message — from any client or from the server's own console — passes through a single `broadcast()` method that fans it out to every other connected client, and through a `synchronized log()` method that timestamps it to `chat_log.txt`.
+
 
 ## 📊 Level Comparison
 
